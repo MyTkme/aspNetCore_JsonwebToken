@@ -11,6 +11,9 @@
 
 I saw a lot of senior pits, the original (context.Resource as Microsoft.AspNetCore.Routing.RouteEndpoint); In fact, it is no longer available in .NET Core 3.0. The reason is that after EndpointRouting is enabled in .NET Core 3.0, the permission filter is no longer Add to ActionDescriptor, and run permissions directly as middleware. At the same time, all filters will be added to endpoint.Metadata. If in .NET Core 2.1 & 2.2, you can usually write Handler like this:
 
-<?php
-    echo "Hello world!";
-?>
+我需要引用一段代码：  
+``` c++
+int a = 1;
+int b = 2;
+int c = a+b;
+```
