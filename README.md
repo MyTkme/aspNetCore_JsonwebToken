@@ -1,6 +1,10 @@
 ## ASP.NET CORE JWT 简单Demo 提供
 
 # Server & Client
-> 在Src中，其中非常的简单，这个一般要使用认证服务器
+> The project uses client and server credential identification. It's very simple and quick to try
 # MySelf Auth
-> 这个模式将会自己验证自己
+> This example is the use of Authorization, Authentication in a single project, a mode for yourself to play without the Server
+# Cookie Sample
+> Use cookies to verify login in ASP.NET Core, we are very simple to use it, login and logout functions
+# Policy Sample
+> This example uses ASP.NET Core for custom authentication JWT. In the example, Swagger is also used for testing. The one-stop configuration is available at your convenience.
